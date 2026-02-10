@@ -1,0 +1,8 @@
+{
+  "name": "Devnox IT - Online Console",
+  "description": "A sophisticated web-based code playground with HTML, CSS, and JS editing, real-time preview, and Gemini AI-powered code assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
